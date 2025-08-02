@@ -22,5 +22,5 @@ This spatiotemporal model is used to forecast Amplitude Ratio, a proxy for groun
    Glas, R. L., M. Briggs, N. C. Terry, C. L. Gazoorian, and D. H. Doctor. 2021b. “Depth to bedrock determined from passive seismic measurements, Neversink River watershed, NY (USA).” U.S. Geological Survey.
    “NHDPlus High Resolution | U.S. Geological Survey.” n.d. Accessed July 10, 2025. https://www.usgs.gov/national-hydrography/nhdplus-high-resolution.
 
-7. For the GCN_LSTM model, please cite to this paper.
+7. For the GCN_LSTM model, please cite to this paper (Citation will be provided after aceptance).
 
