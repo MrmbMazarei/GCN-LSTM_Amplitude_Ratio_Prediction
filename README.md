@@ -1,5 +1,8 @@
 # GCN-LSTM_Amplitude_Ratio_Prediction
 
+For this model please reference to: 
+Behbahani, M. R. M., Rey, D. M., Briggs, M. A., & Bagtzoglou, A. C. (2025). A spatiotemporal deep learning approach for predicting daily air-water temperature signal coupling and identification of key watershed physical parameters in a montane watershed. Journal of Hydrology, 134139.
+
 This repository is related to the paper entitled "A Spatial-Temporal Deep Learning Approach for Predicting Daily Air-Water Temperature Signal Coupling and Identification of Key Watershed Physical Parameters in a Montane Watershed".
 
 Abstract
